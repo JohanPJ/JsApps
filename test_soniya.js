@@ -1,4 +1,9 @@
 // script.js
+// Date: 11 June 2025
+// Author: John
+
+// console.log("Hello from JavaScript!");
+
 // 11 June 2025
 // A basic greeting function
 function greetUser(name) {

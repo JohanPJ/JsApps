@@ -1,4 +1,8 @@
 # hello.py
+# Date: 11 June 2025
+# Author: John
+
+print("Hello from Python!")
 
 # Print a welcome message
 print("Hello! Welcome to your first Python program.")
