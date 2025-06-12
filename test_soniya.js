@@ -1,5 +1,5 @@
 // script.js
-
+// 11 June 2025
 // A basic greeting function
 function greetUser(name) {
     console.log("Hello, " + name + "! Welcome to JavaScript.");
